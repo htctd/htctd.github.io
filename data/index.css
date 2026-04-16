@@ -166,3 +166,10 @@ body {
 #interpolation-image-wrapper img {
   border-radius: 5px;
 }
+
+#contact {
+    padding-top: 1.5rem;
+}
+p {
+    font-size: 17px;
+}
